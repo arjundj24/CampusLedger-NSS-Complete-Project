@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "CampusLedger: local app",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/portal.py",
+      "console": "integratedTerminal",
+      "cwd": "${workspaceFolder}"
+    }
+  ]
+}
